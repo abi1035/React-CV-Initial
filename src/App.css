@@ -9,6 +9,17 @@
   background-color: red;
 }
 
+.wholePage{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.nameInput{
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+}
+
 /* .logo {
   height: 6em;
   padding: 1.5em;
